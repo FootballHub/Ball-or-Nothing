@@ -3,9 +3,6 @@
 <img alt="Logo" src="https://user-images.githubusercontent.com/93927619/205509245-6c48a3c9-1b6a-4a75-bc48-8990f9e751d2.jpg" width="300" height="400">
 </div>
 
-
-https://user-images.githubusercontent.com/93927619/205509245-6c48a3c9-1b6a-4a75-bc48-8990f9e751d2.jpg
-
 FootballHub is an application for FIFA gamers. It is aimed at creating a platform for FIFA gamers to connect.
 
 
