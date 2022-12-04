@@ -11,7 +11,7 @@ FootballHub is an application for FIFA gamers. It is aimed at creating a platfor
 <h1> Technology Installation </h1>
 <h2>Install NodeJs: </h2> 
 <h3>Windows:</h3>
-Download link - https://nodejs.org/en/download/ 
+Download link(LTS version) - https://nodejs.org/en/download/ 
 <h3> Linux: </h3>
 $ curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - <br>
 $ sudo apt-get install -y nodejs
