@@ -8,7 +8,7 @@ FootballHub is an application for FIFA gamers. It is aimed at creating a platfor
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-<h2> Installation </h2>
+<h2> Technology Installation </h2>
 Install NodeJs: 
 Download link - https://nodejs.org/en/ (install the version on the left)
 
