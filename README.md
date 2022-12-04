@@ -19,6 +19,9 @@ Download link(LTS version) - https://nodejs.org/en/download/
 $ curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - <br>
 $ sudo apt-get install -y nodejs
 
+<h1> npm run(react) </h1>
+ npm start
+
 
 
 
