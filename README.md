@@ -3,7 +3,7 @@
 <img alt="Logo" src="https://user-images.githubusercontent.com/93927619/205509245-6c48a3c9-1b6a-4a75-bc48-8990f9e751d2.jpg" width="300" height="400">
 </div>
 
-FootballHub is an application for FIFA gamers. It is aimed at creating a platform for FIFA gamers to connect.
+Football Hub is an online platform for FIFA competitions, such as online friendly matches and tournaments. The platform allows users to deposit money to their account and use it to challenge other players and also to enter tournaments. Football Hub also ranks players according to the number of games they played and prizes they've won. Given that, users will also be allowed to create tournaments and set up the number of teams and rank required in the certain tournaments. Please note that Football Hub won't be responsible for prizes of tournaments created by users(Not by Football Hub)
 
 
 <h1>Technologies used</h1>
